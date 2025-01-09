@@ -17,7 +17,7 @@ const {onSent,recentPrompt,showResult,loading,resultData,setInput,input}=useCont
     <div className="main-container">
 
         { !showResult ?<> <div className="greet">
-            <p> <span>Hello,Vansh </span></p>
+            <p> <span>Hello,User </span></p>
             <p>How can ,I help you today?</p>
             </div>
             <div className="Cards">
